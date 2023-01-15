@@ -1,0 +1,2 @@
+Rather than include pwsh 7.4.0-p1, here is a link to it. https://github.com/PowerShell/PowerShell/releases/tag/v7.4.0-preview.1
+I am not sure if I am allowed to provide a copy here. Need to review the license.
